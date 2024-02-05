@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "One4All"]
+	path = One4All
+	url = https://github.com/moore-institute-4-plastic-pollution-res/one4all
